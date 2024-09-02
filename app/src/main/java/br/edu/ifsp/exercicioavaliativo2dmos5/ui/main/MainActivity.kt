@@ -1,10 +1,11 @@
-package br.edu.ifsp.exercicioavaliativo2dmos5
+package br.edu.ifsp.exercicioavaliativo2dmos5.ui.main
 
 import android.os.Bundle
 import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
+import br.edu.ifsp.exercicioavaliativo2dmos5.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
